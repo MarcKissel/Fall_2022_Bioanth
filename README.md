@@ -1,2 +1,7 @@
 # Fall_2022_Bioanth
-Repo for Bioanth Fall 2022
+
+Welcome!
+
+This will populate over time as I work on this page!
+
+for now, see the syllabus here: https://marckissel.github.io/Fall_2022_Bioanth/Bioanth
